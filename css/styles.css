@@ -84,3 +84,13 @@ h2 {
 .social-links a:hover {
     color: #e8491d;
 }
+
+@media (max-width: 768px) {
+    header h1 {
+        -webkit-text-stroke: 0;
+    }
+
+    header nav a {
+        -webkit-text-stroke: 0;
+    }
+}
