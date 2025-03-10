@@ -7,15 +7,15 @@ This is a personal website template designed to showcase your education, recent 
 The project consists of the following files and directories:
 
 ```
-personal-website
-├── css
-│   └── styles.css        # Styles for the website
-├── images
-│   └── profile.jpg       # Profile picture
-├── js
-│   └── scripts.js        # JavaScript functionality
-├── index.html            # Main HTML document
-└── README.md             # Project documentation
+
+css
+└── styles.css        # Styles for the website
+images
+└── profile.jpg       # Profile picture
+js
+└── scripts.js        # JavaScript functionality
+index.html            # Main HTML document
+README.md             # Project documentation
 ```
 
 ## Getting Started
